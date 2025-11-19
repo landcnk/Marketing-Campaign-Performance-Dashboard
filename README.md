@@ -19,6 +19,7 @@
 - `/data`: Raw data CSV
 - `/db`: Database file
 - `/powerbi`: Power BI dashboard file
+- `/screenshots`: Dashboard preview images
 - `README.md`: Project description
 
 ## How to use

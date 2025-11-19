@@ -15,13 +15,6 @@
 - CPA (Cost per Acquisition)
 - Revenue Trend
 
-## Files
-- `/data`: Raw data CSV
-- `/db`: Database file
-- `/powerbi`: Power BI dashboard file
-- `/screenshots`: Dashboard preview images
-- `README.md`: Project description
-
 ## How to use
 1. เปิดไฟล์ Power BI และเชื่อมต่อกับ CSV/DB
 2. ดู Dashboard เพื่อวิเคราะห์ KPI ต่างๆ

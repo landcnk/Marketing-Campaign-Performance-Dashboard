@@ -1,2 +1,26 @@
-# Marketing-Campaign-Performance-Dashboard
-ฝึกทำโปรเจกต์วิเคราะห์ผลการทำการตลาดของแต่ละ Campaign เพื่อติดตามประสิทธิภาพโฆษณา โดยใช้เครื่องมือ SQL / Excel / Power BI ในการทำ Data Cleaning, Data Modeling และ Visualization เพื่อแสดงผล KPI สำคัญ เช่น CTR, Conversion Rate, ROAS, CPA และ Revenue Trend เพื่อช่วยวางแผนและปรับกลยุทธ์การจัดสรรงบประมาณการตลาดได้อย่างมีประสิทธิภาพ
+# Marketing Campaign Performance Dashboard
+
+## Overview
+โปรเจกต์นี้เป็นการวิเคราะห์ผลการทำการตลาดของแต่ละ Campaign เพื่อวัดประสิทธิภาพโฆษณาและช่วยวางแผนงบประมาณการตลาด
+
+## Tools
+- SQL: Data cleaning / aggregation
+- Excel: Data preprocessing / calculations
+- Power BI: Data visualization & dashboard
+
+## KPI
+- CTR (Click-Through Rate)
+- Conversion Rate
+- ROAS (Return on Ad Spend)
+- CPA (Cost per Acquisition)
+- Revenue Trend
+
+## Files
+- `/data`: Raw data CSV
+- `/db`: Database file
+- `/powerbi`: Power BI dashboard file
+- `README.md`: Project description
+
+## How to use
+1. เปิดไฟล์ Power BI และเชื่อมต่อกับ CSV/DB
+2. ดู Dashboard เพื่อวิเคราะห์ KPI ต่างๆ
